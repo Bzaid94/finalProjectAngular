@@ -4,6 +4,7 @@ metadata:
   name: finalProjectAngular
   annotations:
     github.com/project-slug: Bzaid94/finalProjectAngular
+    backstage.io/managed-by-location: url:https://github.com/Bzaid94/finalProjectAngular/blob/master/README.md
 spec:
   type: other
   lifecycle: unknown
